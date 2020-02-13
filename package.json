@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Fancystacks/Exercise-Tracker/issues"
   },
-  "homepage": "https://github.com/Fancystacks/Exercise-Tracker#readme"
+  "homepage": "https://github.com/Fancystacks/Exercise-Tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
