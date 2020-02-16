@@ -1,7 +1,7 @@
 # Exercise-Tracker
 
 ## Install dependencies:
-- Uses Mongoose, Express and Morgan
+- `npm install` Mongoose, Express and Morgan
 
 ## A NoSQL database workout/exercise tracking application
 
@@ -16,7 +16,7 @@ Add a cardio *or* resistance workout and complete all applicable fields
 <img src="https://user-images.githubusercontent.com/38336934/74598470-96afa580-502f-11ea-9bf4-39009a1d0ef8.png" width="540" height="300">
 
 
-Update (complete) a workout by pressing the 'omplete workout' button
+- Update (complete) a workout by pressing the 'complete workout' button
 
 *(View graphs and pie chart to view workout and exercise data)* 
 
