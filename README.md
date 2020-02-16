@@ -7,13 +7,14 @@
 
 <img src="https://user-images.githubusercontent.com/38336934/74598438-dc1fa300-502e-11ea-9150-1d1127defa44.png" width="540" height="300">
 
+Workout will appear by navigating the `workout dashboard` link in the top left corner
+
 ## Utilization:
 
 Add a cardio *or* resistance workout and complete all applicable fields
 
 <img src="https://user-images.githubusercontent.com/38336934/74598470-96afa580-502f-11ea-9bf4-39009a1d0ef8.png" width="540" height="300">
 
-Workout will appear by navigating the `workout dashboard` link in the top left corner
 
 Update (complete) a workout by pressing the 'omplete workout' button
 
