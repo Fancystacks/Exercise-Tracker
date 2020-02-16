@@ -18,6 +18,8 @@ Add a cardio *or* resistance workout and complete all applicable fields
 
 - Update (complete) a workout by pressing the 'complete workout' button
 
+- Add an additional workout by pressing the 'add exercise' button
+
 *(View graphs and pie chart to view workout and exercise data)* 
 
 This application was deployed live on [Heroku](https://git.heroku.com/dry-castle-68595.git/).
