@@ -184,6 +184,7 @@ function populateChart(data) {
 }
 
 function duration(data) {
+  console.log(data);
   let durations = [];
 
   data.forEach(workout => {
