@@ -22,4 +22,4 @@ Add a cardio *or* resistance workout and complete all applicable fields
 
 *(View graphs and pie chart to view workout and exercise data)* 
 
-This application was deployed live on [Heroku](https://git.heroku.com/dry-castle-68595.git/).
+This application was deployed live on [Heroku](https://dry-castle-68595.herokuapp.com/).
